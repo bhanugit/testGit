@@ -11,6 +11,8 @@ public class MyrestApplicationTests {
 
 	@Test
 	public void contextLoads() {
+
+		System.out.println("THIS IS FROM MAVEN TEST");
 	}
 
 }
